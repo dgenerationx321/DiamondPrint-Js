@@ -25,3 +25,5 @@ for (let i = 1; i <= n - 1; i++) {
   string = string + "\n";
 }
 console.log(string);
+document.write();
+// Diamond Pattern
